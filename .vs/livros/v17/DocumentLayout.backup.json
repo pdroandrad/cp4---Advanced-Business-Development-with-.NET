@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\livros\\livros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|solutionrelative:livros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\livros\\livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|solutionrelative:livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\livros\\livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|solutionrelative:livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\livros\\livros\\services\\servicolivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|solutionrelative:livros\\services\\servicolivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|d:\\users\\pedro\\documents\\estudo\\fiap\\2tdspv\\net\\livros\\livros\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C276926-361E-4A9E-9C0E-15661EF77217}|livros\\livros.csproj|solutionrelative:livros\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "livros\\Models\\Livro.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Models\\Livro.cs",
+              "RelativeToolTip": "livros\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:53:34.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\appsettings.json",
+              "RelativeDocumentMoniker": "livros\\appsettings.json",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\appsettings.json",
+              "RelativeToolTip": "livros\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T01:47:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "livros\\Controllers\\LivrosController.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "livros\\Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:24:08.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicoLivros.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Services\\ServicoLivros.cs",
+              "RelativeDocumentMoniker": "livros\\Services\\ServicoLivros.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Services\\ServicoLivros.cs",
+              "RelativeToolTip": "livros\\Services\\ServicoLivros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:23:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Program.cs",
+              "RelativeDocumentMoniker": "livros\\Program.cs",
+              "ToolTip": "D:\\Users\\Pedro\\Documents\\Estudo\\FIAP\\2TDSPV\\net\\livros\\livros\\Program.cs",
+              "RelativeToolTip": "livros\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:17:43.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
