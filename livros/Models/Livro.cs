@@ -16,7 +16,7 @@ namespace livros.Models
         public int AnoPublicacao { get; set; }
 
         [BsonElement("Autor")]
-        public Autor Autor { get; set; }
+        public List<Autor> Autor { get; set; }
 
     }
 }
