@@ -96,4 +96,7 @@ O **Swagger UI** será aberto automaticamente em:
 
 As demais ações - GET(por ID), PUT e DELETE podem ser realizadas passando o ID que foi gerado automaticamente no método POST.
 
+### 4️⃣ Visualização do exemplo criado no [MongoDB Atlas](https://www.mongodb.com/atlas):
+
+![mongodb](https://github.com/user-attachments/assets/572ef703-7607-4ba8-b2af-e72da4c4d91b)
 
